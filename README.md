@@ -3,7 +3,7 @@
 🧰 Toolbox
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="100" title="My Fav Programming Language" alt="Python">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="100" title="My Fav Web Dev Framework" alt="Django">
+  <img src="https://download.logo.wine/logo/Django_(web_framework)/Django_(web_framework)-Logo.wine.png" width="100" title="My Fav Web Dev Framework" alt="Django">
 </p>
 
 
